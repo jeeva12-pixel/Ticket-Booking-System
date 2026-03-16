@@ -22,5 +22,5 @@ The program runs in the console.
 ## Author
 Jeeva
 
-## GitHub Profile
+## MY GitHub Profile
 [My GitHub] https://github.com/jeeva12-pixel
